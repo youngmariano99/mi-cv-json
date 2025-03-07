@@ -59,12 +59,12 @@
     },
     "certifications": [ {
         "name": "Curso profesional de Python",
-        "institution": "CodigoFacilito",
+        "institution": "Codigo-Facilito",
         "date_obtained": "2024-12-01"
     },
     {
         "name": "Curso a fondo de GitHub",
-        "institution": "CodigoFacilito",
+        "institution": "Codigo-Facilito",
         "date_obtained": "2025-02-01"
       }],
     "projects": [],
