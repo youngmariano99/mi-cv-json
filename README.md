@@ -15,7 +15,7 @@ Certificaciones.
 Idiomas.
 (Opcional) README.md: Explicación de la estructura y propósito del CV en JSON (este archivo que estás leyendo).
 
-Cómo visualizar o usar el CV
+# ¿Cómo visualizar o usar el CV?
 Lectura directa:
 Puedes abrir el archivo CV.json directamente en tu navegador o en cualquier editor de texto.
 Procesamiento automatizado:
